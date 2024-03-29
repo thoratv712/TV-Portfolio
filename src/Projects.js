@@ -146,7 +146,7 @@ function Projects() {
             overall experience for both guests and hotel operators.Developed
             with Angular, SpringBoot, RestAPI, MySQL.
             <div className="social-icon s-margin">
-            <a href="https://github.com/thoratv712/fake-product-identification-system" target="_blank">
+            <a href="https://github.com/thoratv712/" target="_blank">
               <img src="github.png" alt="Github" className="github" />
             </a>
             </div>
