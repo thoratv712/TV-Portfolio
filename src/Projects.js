@@ -178,7 +178,7 @@ function Projects() {
             Built and designed a user interface that is responsive. Developed
             with ReactJs, HTML, CSS, Javascript.
             <div className="social-icon s-margin">
-            <a href="https://github.com/thoratv712/fake-product-identification-system" target="_blank">
+            <a href="https://github.com/thoratv712/TV-Portfolio" target="_blank">
               <img src="github.png" alt="Github" className="github" />
             </a>
             </div>
