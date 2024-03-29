@@ -76,7 +76,7 @@ function Projects() {
                   className="owl-carousel owl-theme skill-slider"
                 >
                   <div className="item" onClick={() => handleShow(1)}>
-                    <img src="girl.jpg" alt="Image" />
+                    <img src="DreamStay.jpg" alt="Image" />
                     <h5>Hotel Room Booking (DreamStay)</h5>
                   </div>
                   <div className="item" onClick={() => handleShow(2)}>
