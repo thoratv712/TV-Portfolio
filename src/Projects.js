@@ -252,11 +252,12 @@ function Projects() {
         <Modal.Body className="modal-body">
           <h6>
             {" "}
-            Built and designed a user interface that is responsive. Developed
-            with ReactJs, HTML, CSS, Javascript.
+            Built and designed a user interface. Developed
+            with ReactJs, HTML, CSS, Javascript, MaterialUI.The Record-Keeping Website mini-project 
+            is designed to facilitate the management and organization of records in a digital format.
             <div className="social-icon s-margin">
               <a
-                href="https://github.com/thoratv712/TV-Portfolio"
+                href="https://github.com/thoratv712/Record-Keeping-Mini-Project"
                 target="_blank"
               >
                 <img src="github.png" alt="Github" className="github" />
@@ -264,8 +265,8 @@ function Projects() {
             </div>
           </h6>
           <img
-            src="MyPortfolio.png"
-            alt="DreamStay"
+            src="RK.png"
+            alt="RK"
             className="modal-img"
             width={"500px"}
           />
