@@ -247,7 +247,7 @@ function Projects() {
         className="custom-modal"
       >
         <Modal.Header closeButton>
-          <Modal.Title>Portfolio Website</Modal.Title>
+          <Modal.Title>Record Keeping Mini Project</Modal.Title>
         </Modal.Header>
         <Modal.Body className="modal-body">
           <h6>
