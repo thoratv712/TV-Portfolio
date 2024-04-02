@@ -168,7 +168,7 @@ function Projects() {
             with ReactJs, HTML, CSS, Javascript.
             <div className="social-icon s-margin">
               <a
-                href="https://github.com/thoratv712/TV-Portfolio"
+                href="https://github.com/thoratv712/TV-Portfolio.git"
                 target="_blank"
               >
                 <img src="github.png" alt="Github" className="github" />
@@ -257,7 +257,7 @@ function Projects() {
             is designed to facilitate the management and organization of records in a digital format.
             <div className="social-icon s-margin">
               <a
-                href="https://github.com/thoratv712/Record-Keeping-Mini-Project"
+                href="https://github.com/thoratv712/Record-Keeping-Mini-Project.git"
                 target="_blank"
               >
                 <img src="github.png" alt="Github" className="github" />
