@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TV-Portfolio/static/css/main.e95f4200.css",
+    "main.js": "/TV-Portfolio/static/js/main.9ae09d32.js",
+    "static/js/592.fc1c8623.chunk.js": "/TV-Portfolio/static/js/592.fc1c8623.chunk.js",
+    "static/media/revicons.eot": "/TV-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/TV-Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/TV-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/TV-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TV-Portfolio/index.html",
+    "main.e95f4200.css.map": "/TV-Portfolio/static/css/main.e95f4200.css.map",
+    "main.9ae09d32.js.map": "/TV-Portfolio/static/js/main.9ae09d32.js.map",
+    "592.fc1c8623.chunk.js.map": "/TV-Portfolio/static/js/592.fc1c8623.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e95f4200.css",
+    "static/js/main.9ae09d32.js"
+  ]
+}
