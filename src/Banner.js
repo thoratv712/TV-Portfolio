@@ -64,8 +64,8 @@ function Banner() {
                 <span className="wrap"> {text}</span>
               </h2>
               <p>
-                Hi there, I'm Vaishnavi Thorat, and I enjoy creating things that
-                live on internet. After completing a Full Stack Development
+                Hi there, I'm Vaishnavi Thorat, and I enjoy creating things that
+                live on the internet. After completing a Full Stack Development
                 course lately, I'm excited to start a career where I can use my
                 talents, provide value to projects that are dynamic, and acquire
                 priceless industry experience. Devoted to lifelong learning and
@@ -74,19 +74,14 @@ function Banner() {
                 atmosphere.
               </p>
               <a href="/resume.pdf" download className="btn ">
-                <i class="bi bi-download"></i> Resume
+                <i className="bi bi-download"></i> Resume
               </a>
               <button onClick={() => alert("Connect using social media")}>
                 Let's Connect <ArrowRightCircle size={25} />{" "}
               </button>
             </Col>
             <Col xs={12} md={6} xl={5} className="profile">
-            {/* <div class="blob"></div> */}
-          
-
-            
-              <img src="Mypic2.jpg" alt="img"  />
-             
+              <img src="/Mypic2.jpg" alt="Profile" />
             </Col>
           </Row>
         </Container>
